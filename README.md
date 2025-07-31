@@ -6,6 +6,8 @@ Additionally, the platform includes a PDF of Ethical Hacking Interview Questions
 
 To enhance the design and functionality, I utilized AI tools like Canva for visual assets and ChatGPT for prompt engineering and development support.
 
+---
+
 🌟Features 
 1.Interactive Learning Platform
 Curated content to help users grasp ethical hacking concepts effectively.
@@ -24,6 +26,8 @@ ChatGPT: Assisted in coding, prompt engineering, and content creation.
 5.Responsive Design
 The website is optimized for desktops, tablets, and mobile devices.
 
+---
+
 🛠️ Technologies Used Frontend:
 HTML
 CSS
@@ -33,8 +37,11 @@ AI Tools:
 Canva (Visual Design)
 ChatGPT (Development and Content Assistance)
 
+---
 🚀 Future Enhancements
 Add more interactive modules and tutorials.
 Introduce advanced-level exams and certifications.
 Include a user login system to save progress.
+
+---
 For exploring go to index.html file or use this link : https://hackingninjas.netlify.app/
