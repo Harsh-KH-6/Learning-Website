@@ -11,28 +11,31 @@ To enhance the design and functionality, I utilized AI tools like Canva for visu
 🌟Features 
 
 
-1.Interactive Learning Platform
+1. Interactive Learning Platform
 Curated content to help users grasp ethical hacking concepts effectively.
 
-2.Exam Module
+2. Exam Module
 An interactive quiz to test users' knowledge.
 Real-time feedback on exam performance.
 
-3.Ethical Hacking Interview Questions PDF
+3. Ethical Hacking Interview Questions PDF
 A downloadable PDF with curated interview questions to help learners ace their job interviews.
 
-4.AI-Enhanced Development
+4. AI-Enhanced Development
 Canva: Used to create high-quality graphics and visuals.
 ChatGPT: Assisted in coding, prompt engineering, and content creation.
 
-5.Responsive Design
+5. Responsive Design
 The website is optimized for desktops, tablets, and mobile devices.
 
 ---
 
 🛠️ Technologies Used Frontend:
+
 HTML
+
 CSS
+
 JavaScript
 
 AI Tools:
